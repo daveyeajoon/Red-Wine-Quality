@@ -6,7 +6,7 @@
 ## Business problem: This project was to help and determine which physiochemical properties make a good quality of Red Wine.
 
 ### Data:
-[This data is from Red Wine Quality from Kaggle.](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009).
+[This data is from Red Wine Quality from Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009).
 
 
 ## Methods
