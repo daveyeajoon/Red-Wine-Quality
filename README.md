@@ -1,19 +1,19 @@
 # Red Wine Quality
-## Analyze the grocery market and predict the sales volume
+## Analyze the Red Wine Quality for Farmers and Customers
 
 **Author**: Yeajoon Yoo
 
-## Business problem: This project was to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
+## Business problem: This project was to help and determine which physiochemical properties make a good quality of Red Wine.
 
 ### Data:
-[Data can include source and high-level description (e.g. # obs)](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/).
-This data is from Big Mart Sales Prediction Hackathon in Analytics Vidhya.
+[Data can include source and high-level description (e.g. # obs)]([https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)).
+This data is from Red Wine Quality from Kaggle.
 
 
 ## Methods
 - First Step: Loading & Filtering Data
-- Second Step: Display Data Visualization such as ScatterPlot, Barplot, Correlation Hitmap, Histogram, and Boxplot
-- Last Step: Try various Machine Learning Models (Regression Metrix and Decission Tree) to the data and find the best model for this Market Data.
+- Second Step: Display Data Visualization such as ScatterPlot, Barplot, Correlation Hitmap.
+- Last Step: Try various Machine Learning Models (Logistic Regression and PCA-  ) to the data and find the best model for this Market Data.
 
 ## Results
 
