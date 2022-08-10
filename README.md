@@ -28,9 +28,10 @@
 
 ## Model
 
-I have used Logistic Regression and PCA-KNN Classification model for this Red Wine data.
-I can see that Logistic Regression Model has better score than KNN Classification.
+I have used PCA Logistic Regression and PCA KNN Regression model for this Red Wine data.
+I would use Logistic Regression Model because this model showed much better score than KNN Regression to determine which model would get Good quality of Red Wine.
 
+![image](https://user-images.githubusercontent.com/102710414/183805600-6454ceda-0ecf-46a4-a7ed-1db0751c7c91.png)
 
 ### For further information
 For any additional questions, please contact **yeajoonyoo0317@gmail.com**
